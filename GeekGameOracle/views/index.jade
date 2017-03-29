@@ -1,0 +1,10 @@
+﻿extends layout
+
+block content
+  script(src="/javascripts/jQueryJSFile.js")
+  h1= title
+  p(name ='title') Welcome to #{title}
+  
+  p(name ='optionsHeader') choose an option to start:
+
+  div(name = 'optionsContainer', id = 'optionsContainer')

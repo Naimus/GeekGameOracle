@@ -1,0 +1,16 @@
+{
+  "name": "GeekGameOracle",
+  "version": "0.0.0",
+  "description": "GeekGameOracle",
+  "main": "app.js",
+  "author": {
+    "name": "ES36A1",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*",
+    "xml2js": "*"
+  }
+}

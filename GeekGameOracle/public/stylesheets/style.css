@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  position: center;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+.option {
+  width: 100px;
+  font: 30px "Consolas";
+  position: center;
+  text-align: center;
+  height: auto;
+  background: #fff000;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
+  color: #000fff;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii" ?>
+<Level Title="ChooseAnOption" Question="What option will you Choose?">
+  <Level Title="Option1" Question="OK, this is Option1, then...what else?">
+    <Level Title="1">
+      <Game>The Option1 part 1 game</Game>
+    </Level>    
+    <Level Title="2">
+      <Game>The Option1 part 2 game</Game>
+    </Level>    
+  </Level>
+  <Level Title="Option2" Question="OK, this is Option2, then...what else?">
+    <Level Title="1">
+      <Game>The Option2 part 1 game</Game>
+    </Level>    
+    <Level Title="2">
+      <Game>The Option2 part 2 game</Game>
+    </Level>    
+  </Level>
+</Level>
